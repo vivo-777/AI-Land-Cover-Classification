@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (too large for git)
+data/Dataset_Delhi_NCR/worldcover_bbox_delhi_ncr_2021.tif
+data/Dataset_Delhi_NCR/rgb/
+
+# Model weights
+*.pth
+*.pt

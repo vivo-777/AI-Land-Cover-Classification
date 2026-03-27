@@ -122,13 +122,3 @@ jupyter notebook notebooks/02_model_training.ipynb
 ## 📜 License
 
 This project is for academic and research purposes.
-
----
-
-## 👤 Author
-
-**Kinjal Chavda**
-
----
-
-*Built with ❤️ for a sustainable future*
